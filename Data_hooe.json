@@ -1,0 +1,20 @@
+{
+  "server": {
+    "ip": "167.71.199.42",
+    "port": 7777,
+    "hostname": "Hopeside Roleplay || #New Era",
+    "gamemode": "HSRP OBB 1.0"
+  },
+  "launcher": {
+    "version": "1.0"
+  },
+  "update": {
+    "enabled": true,
+    "files": [
+      {
+        "url": "https://hostkamu.com/models/txd/hsrp.txd",
+        "path": "models/txd/hsrp.txd"
+      }
+    ]
+  }
+}
