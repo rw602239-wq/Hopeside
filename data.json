@@ -1,10 +1,5 @@
 {
-  "base_folder": "",
-  "files": [
-    {
-      "name": "hopeside1.png",
-      "url": "https://github.com/rw602239-wq/Hopeside/raw/refs/heads/main/logo.txd"
-    }
-  ]
-
+  "name": "SAMP Mobile Data",
+  "version": "1.0",
+  "download_url": "https://github.com/rw602239-wq/Hopeside/raw/refs/heads/main/sampc.zip"
 }
