@@ -1,5 +1,9 @@
 {
-  "name": "SAMP Mobile Data",
   "version": "1.0",
-  "download_url": "https://github.com/rw602239-wq/Hopeside/raw/refs/heads/main/sampc.zip"
+  "files": [
+    {
+      "name": "gta3.img",
+      "url": "https://github.com/rw602239-wq/Hopeside/raw/refs/heads/main/logo.txd"
+    }
+  ]
 }
