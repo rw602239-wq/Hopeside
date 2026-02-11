@@ -1,0 +1,7 @@
+{
+  "data_files": [
+    "https://domain.com/logo.txd",
+    "https://domain.com/logo.img"
+  ],
+  "client_zip": "https://domain.com/client.zip"
+}
