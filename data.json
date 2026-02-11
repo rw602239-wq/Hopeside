@@ -1,9 +1,5 @@
 {
-  "version": "1.0",
   "files": [
-    {
-      "name": "logo.txd",
-      "url": "https://raw.githubusercontent.com/rw602239-wq/Hopeside/main/logo.txd"
-    }
+    "https://raw.githubusercontent.com/rw602239-wq/Hopeside/main/logo.txd"
   ]
 }
